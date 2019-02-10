@@ -1,4 +1,5 @@
 #include "main.h"
-void main(){
+int main(){
 	cout<<"Hello world";
+	return 1;
 }
